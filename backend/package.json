@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kaif9569/bookStoreApp.git"
+    "url": "https://github.com/Kaif9569/BookStoreApp.git"
   },
   "author": "kaif",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kaif9569/bookStoreApp/issues"
+    "url": "https://github.com/Kaif9569/BookStoreApp/issues"
   },
-  "homepage": "https://github.com/Kaif9569/bookStoreApp#readme",
+  "homepage": "https://github.com/Kaif9569/BookStoreApp#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
